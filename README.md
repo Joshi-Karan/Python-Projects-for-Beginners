@@ -4,52 +4,28 @@
 Note: All project idea belongs to FreeCodeCamp, to access their code and tutorial for the projects click <a href="https://www.freecodecamp.org/news/python-projects-for-beginners/"> Here</a>
 <hr><br>
 <h3>Table of Content -> </h3>
-    1. Mad Libs
-
-    2. Guess the Number Game (computer)
-
-    3. Guess the Number Game (user)
-
-    4. Rock,paper,scissor
-
-    5. Hangman
-
-    6. Countdown Timer
-
-    7. Password Generator
-
-    8. QR code encoder / decoder
-
-    9. Tic-Tac-Toe
-
-    10. Tic-Tac-Toe AI
-
-    11. Binary Search
-
-    12. Minesweeper
-
-    13. Sudoku Solver
-
-    14. Photo manipulation in Python
-
-    15. Markov Chain Text Composer
-
-    16. Pong
-
-    17. Snake
-
-    18. Connect Four
-
-    19. Tetris
-
-    20. Online Multiplayer Game
-
-    21. Web Scraping Program
-
-    22. Bulk file renamer
-
-    23. Weather Program
-
-    24. Code a Discord Bot with Python 
-    - Host for Free in Cloud
-    25. Space invaders game
+    1. Mad Libs<br/>
+    2. Guess the Number Game (computer)<br/>
+    3. Guess the Number Game (user)<br/>
+    4. Rock,paper,scissor<br/>
+    5. Hangman<br/>
+    6. Countdown Timer<br/>
+    7. Password Generator<br/>
+    8. QR code encoder / decoder<br/>
+    9. Tic-Tac-Toe<br/>
+    10. Tic-Tac-Toe AI<br/>
+    11. Binary Search<br/>
+    12. Minesweeper<br/>
+    13. Sudoku Solver<br/>
+    14. Photo manipulation in Python<br/>
+    15. Markov Chain Text Composer<br/>
+    16. Pong<br/>
+    17. Snake<br/>
+    18. Connect Four<br/>
+    19. Tetris<br/>
+    20. Online Multiplayer Game<br/>
+    21. Web Scraping Program<br/>
+    22. Bulk file renamer<br/>
+    23. Weather Program<br/>
+    24. Code a Discord Bot with Python - Host for Free in Cloud<br/>
+    25. Space invaders game<br/>

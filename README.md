@@ -12,4 +12,4 @@ NOTE: This repo is yet to be completed, I will add new project every now and the
     6. Countdown Timer<br/>
     7. Password Generator<br/>
     8. QR code encoder / decoder<br/>
-    9. Unbeatable Tic-Tac-Toe (Will Upload soon ☺ )<br/>
+    9. Unbeatable Tic-Tac-Toe<br/>

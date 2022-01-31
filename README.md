@@ -13,3 +13,4 @@ NOTE: This repo is yet to be completed, I will add new project every now and the
     7. Password Generator<br/>
     8. QR code encoder / decoder<br/>
     9. Unbeatable Tic-Tac-Toe<br/>
+    10. Binary Search Python Project<br/>

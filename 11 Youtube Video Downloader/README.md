@@ -4,7 +4,7 @@
 Download a youtube video from URL using Pytube module<br/>
 
 <h3>Note: </h3>
-Execute following lines in terminal to download Pytube
+Execute following lines in terminal to install Pytube
 
 ``` pip install pytube ```
 

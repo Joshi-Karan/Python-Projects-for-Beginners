@@ -14,3 +14,4 @@ NOTE: I will be adding new project every now and then.
     8. QR code encoder / decoder<br/>
     9. Unbeatable Tic-Tac-Toe<br/>
     10. Binary Search Python Project<br/>
+    11. Youtube Video Downloader<br/>

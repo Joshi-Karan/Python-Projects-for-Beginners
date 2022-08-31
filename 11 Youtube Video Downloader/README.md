@@ -1,4 +1,4 @@
-# Rock Paper Scissor
+# Youtube Video Downloader
 
 <h3>Task: </h3>
 Download a youtube video from URL using Pytube module<br/>
